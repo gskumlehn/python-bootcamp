@@ -1,0 +1,5 @@
+Blog Project
+
+Upgrades Blog with login and comment capabilities using a login manager and
+Relational Databases between the Users, Posts and Comments tables
+
